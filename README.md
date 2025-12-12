@@ -6,7 +6,7 @@
 
 # 👋 Olá! Eu sou o Denner Souza
 
-🎓 Estudante de **Licenciatura em Matemática**
+🎓 Estudante de **Desenvolvimento Web** e **Licenciatura em Matemática**
 
 ---
 
